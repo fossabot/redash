@@ -7,6 +7,7 @@
 
 [![Join the chat at https://gitter.im/getredash/redash](https://badges.gitter.im/getredash/redash.svg)](https://gitter.im/getredash/redash?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Documentation](https://img.shields.io/badge/docs-redash.io/help-brightgreen.svg)](https://redash.io/help/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwintercircle%2Fredash.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwintercircle%2Fredash?ref=badge_shield)
 
 **_Redash_** is our take on freeing the data within our company in a way that will better fit our culture and usage patterns.
 
@@ -48,3 +49,6 @@ You can try out the demo instance: http://demo.redash.io/ (login with any Google
 ## License
 
 BSD-2-Clause.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwintercircle%2Fredash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwintercircle%2Fredash?ref=badge_large)
